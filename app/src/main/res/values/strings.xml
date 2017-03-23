@@ -1,0 +1,53 @@
+<resources>
+    <!-- Global strings-->
+    <string name="app_name">Quiz App</string>
+    <string name="edit_text_hint">Resposta </string>
+    <string name="button_text_submit_respostas">Enviar respostas</string>
+    <string name="quiz_score_toast">"A Pontuação para 7 perguntas são: "</string>
+
+    <!-- Questao 1 -->
+    <string name="q_1_header">Questao 1</string>
+    <string name="q_1_questao">País de maior população do mundo?</string>
+
+    <!-- Questao 2 -->
+    <string name="q_2_header">Questao 2</string>
+    <string name="q_2_questao">É também conhecida como a Cidade Luz?</string>
+    <string name="q_2_radio_button_responda_1">Nova Iorque</string>
+    <string name="q_2_radio_button_responda_2">Paris</string>
+    <string name="q_2_radio_button_responda_3">Londres</string>
+    <string name="q_2_radio_button_responda_4">Tóquio</string>
+
+    <!-- Questao4 -->
+    <string name="q_4_header">Questao 4</string>
+    <string name="q_4_questao">Os primeiros habitantes do Brasil foram: _______ ?</string>
+
+
+    <!-- Questao 6 -->
+    <string name="q_6_header">Questao 6</string>
+    <string name="q_6_questao">O esporte mais popular no Brasil.?</string>
+    <string name="q_6_check_box_responda_1">Basquete</string>
+    <string name="q_6_check_box_responda_2">Futebol de salão</string>
+    <string name="q_6_check_box_responda_3">Voleibol</string>
+    <string name="q_6_check_box_responda_4">Futebol</string>
+
+
+    <!-- Questao 8 -->
+    <string name="q_8_header">Questao 8</string>
+    <string name="q_8_questao">O Japão também é conhecido como:</string>
+    <string name="q_8_radio_button_responda_1">A terra dos Orixás</string>
+    <string name="q_8_radio_button_responda_2">A terra do sol nascente</string>
+    <string name="q_8_radio_button_responda_3">A terra dos equipamentos eletrônicos</string>
+    <string name="q_8_radio_button_responda_4">A terra das artes marciais</string>
+
+    <!-- Questao 9 -->
+    <string name="q_9_header">Questao 9</string>
+    <string name="q_9_questao">Um abacate maduro tem a cor:</string>
+    <string name="q_9_check_box_responda_1">Verde</string>
+    <string name="q_9_check_box_responda_2">Amarela</string>
+    <string name="q_9_check_box_responda_3">Vermelha</string>
+    <string name="q_9_check_box_responda_4">Laranja</string>
+
+    <!-- Questao 10 -->
+    <string name="q_10_header">Questao 10</string>
+    <string name="q_10_questao">Nome que se dá ao processo de reaproveitamento de lixo.</string>
+</resources>
