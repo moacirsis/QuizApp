@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         editTextQ1 = (EditText) findViewById(R.id.q_1_responda_edit_text);
         q2 = (RadioButton) findViewById(R.id.q_2_radio_button_1);
-        editTextQ4 = (EditText) findViewById(R.id.q_4_answer_edit_text);
+        editTextQ4 = (EditText) findViewById(R.id.q_4_responda_edit_text);
         q6cB1 = (CheckBox) findViewById(R.id.q_6_check_box_1);
         q6cB2 = (CheckBox) findViewById(R.id.q_6_check_box_2);
         q6cB3 = (CheckBox) findViewById(R.id.q_6_check_box_3);
@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        //  Questao 4
+        //  questao 4
         String q4 = editTextQ4.getText().toString();
         String q4Responda = "indíos";
         scoreEditTextQuestao(q4, q4Responda);
@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
         return quizScore;
     }
 
-    // Score RadioButton view questao
+
     public int scoreRadioButtonQuestao(RadioButton rB) {
         if (rB.isChecked()) {
             quizScore++;
